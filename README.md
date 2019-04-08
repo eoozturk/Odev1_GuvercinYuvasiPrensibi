@@ -5,7 +5,7 @@
 </p>
 
 # Güvercin Yuvası Prensibi
-Güvercin Yuvası Prensibi ile ilgili Soru ve Çözümü
+Güvercin Yuvası Prensibi ile ilgili Soru ve Çözümü, [**Soru Kaynağı**](https://tr.scribd.com/document/390283264/Guvercin-yuvas%C4%B1-Pigeonhole-prensibi-pdf)
 
 ## Soru: Güvercin Yasası Prensibi
 
