@@ -7,7 +7,7 @@
 # Güvercin Yuvası Prensibi
 Güvercin Yuvası Prensibi ile ilgili Soru ve Çözümü, [**Soru Kaynağı**](https://tr.scribd.com/document/390283264/Guvercin-yuvas%C4%B1-Pigeonhole-prensibi-pdf)
 
-## Soru: Güvercin Yasası Prensibi
+## Soru: Güvercin Yuvası Prensibi
 
 Bir kampüste 18 adet oturma salonu bulunmaktadır. Öğrenci dekanı, bir salondaki bilgisayar kullanımını anlamak için anket yapmak amacıyla seçeceği salondan 5 kişilik öğrenci komitesi oluşturmak ister ve salonlara duyurular asar. En az kaç kişi bu ankete cevap vermelidir ki, dekan bir salon seçip komite oluşturabilsin.
 
